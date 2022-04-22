@@ -1,7 +1,7 @@
 # Hi there, I'm Hassen - aka Genope 👋 
 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](www.hassenmabrouk.me)
+[![Website](https://img.shields.io/website?label=hassenmabrouk.me&style=for-the-badge&url=https%3A%2F%2Fhassenmabrouk.me)](https://hassenmabrouk.me)
 
 ## I'm a Developer and Designer !!
 
@@ -56,6 +56,6 @@
 
 </details>
 
-[website]: hassenmabrouk.me
+[website]: https://www.hassenmabrouk.me
 [instagram]: https://www.instagram.com/hassen__mabrouk/
 [linkedin]: https://www.linkedin.com/in/hassen-mabrouk-9152771b6/
