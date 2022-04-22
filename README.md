@@ -14,8 +14,8 @@
 [![website](./img/globe-light.svg)](https://hassenmabrouk.me#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://hassenmabrouk.me#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hassen-mabrouk-9152771b6/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hassen-mabrouk-9152771b6/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/hassen-mabrouk-9152771b6/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://linkedin.com/in/hassen-mabrouk-9152771b6/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/hassen__mabrouk/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hassen__mabrouk/gh-dark-mode-only)
