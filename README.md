@@ -6,7 +6,7 @@
 ## I'm a Developer and Designer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about KMM
 - ⚡ Fun fact: Video Editing is one of my hidden talents
 
 ### Connect with me:
