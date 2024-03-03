@@ -14,6 +14,12 @@
 - 📫 How to reach me out via **[Email](**hassen.mabrouk@esprit.tn**)**.
 
 - ⚡ Fun fact **I have few projects here because I mostly write code that makes money XD**
+
+
+### :snake: Snake!
+<div align="center"><img src="https://raw.githubusercontent.com/genope/genope/output/github-contribution-grid-snake.svg" ></div>
+
+### :muscle: My Weekly Development
 <!--START_SECTION:waka-->
 
 ```txt
@@ -29,8 +35,3 @@ Swift             11 mins         ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### :snake: Snake!
-<div align="center"><img src="https://raw.githubusercontent.com/genope/genope/output/github-contribution-grid-snake.svg" ></div>
-
-
