@@ -5,10 +5,6 @@
 <a href="https://gifyu.com/image/SFjL3"><img align="right" alt="Coding" width ="400" src="https://s9.gifyu.com/images/SFjL3.gif" alt="" border="0" /></a>
 </a>
 
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg)](https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef)
-</div>
 - 🌱 I’m currently learning **KMM,Kotlin, SwiftUI**
 
 -  I'm about to start writing articles on **[Medium](https://medium.com/@hassenmabrouk)**.
