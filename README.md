@@ -38,8 +38,7 @@
 ### 🕘 Wakatime Activity
 <div align="center">
 
-<img src="https://wakatime.com/share/@323402a1-bedf-4563-9d3c-6d8a3682f2bb/72734eac-e2de-4cf2-97ec-105b52bdbd88.svg"></img>
-
+[![wakatime](https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg)](https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef)
 </div>
 
 ### :muscle: My Weekly Development
