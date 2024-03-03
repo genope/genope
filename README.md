@@ -41,17 +41,4 @@
 
 ### :muscle: My Weekly Development
 <!--START_SECTION:waka-->
-
-```txt
-From: 24 February 2024 - To: 02 March 2024
-
-Total Time: 16 hrs 29 mins
-
-Other        25 hrs 21 mins  ███████████████░░░░░░░░░░   60.58 %
-Python       11 hrs 48 mins  ███████░░░░░░░░░░░░░░░░░░   28.23 %
-YAML         2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-sh           1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
 <!--END_SECTION:waka-->
