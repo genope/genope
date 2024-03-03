@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassen - aka Genope</h1>
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+👋+,+I'm+Hassen+-+ aka+Genope;welcome+to+my+github+page)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+👋+,+I%27m+Hassen+-+)
-
 <h3 align="center">I'm a Software Engineer and Designer !!</h3>
+
 <img  scr="https://jumpshare.com/s/ayqbGVVIO99V3kU52cLw">
 <a href="https://gifyu.com/image/SFjL3"><img align="right" alt="Coding" width ="400" src="https://s9.gifyu.com/images/SFjL3.gif" alt="" border="0" /></a>
 </a>
@@ -32,3 +31,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genope&show_icons=true&locale=en" alt="genope" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genope&" alt="genope" /></p>
+### :snake: Snake!
+<div align="center"><img src="https://raw.githubusercontent.com/genope/genope/output/github-contribution-grid-snake.svg" ></div>
+
+
+### 🕘 Wakatime Activity
+<div align="center">
+
+<img src="https://wakatime.com/share/@323402a1-bedf-4563-9d3c-6d8a3682f2bb/72734eac-e2de-4cf2-97ec-105b52bdbd88.svg"></img>
+
+</div>
+
+### :muscle: My Weekly Development
+<!--START_SECTION:waka-->
+
+```txt
+From: 24 February 2024 - To: 02 March 2024
+
+Total Time: 16 hrs 29 mins
+
+Other        25 hrs 21 mins  ███████████████░░░░░░░░░░   60.58 %
+Python       11 hrs 48 mins  ███████░░░░░░░░░░░░░░░░░░   28.23 %
+YAML         2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+sh           1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
+<!--END_SECTION:waka-->
