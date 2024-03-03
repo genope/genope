@@ -22,6 +22,12 @@
 <a href="https://discord.gg/genope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="genope" height="30" width="40" /></a>
 </p>
 <h3 align="left">Wakatime Activity:</h3>
+
+<div align="left">
+<a href="https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef"><img src="https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg" alt="Total time coded since Aug 13 2022" /></a>
+</div>
+  
+</div>
 <div align="left">
 [![wakatime](https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg)](https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef)
 </div>
