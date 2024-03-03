@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassen - aka Genope</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+👋+,+I'm+Hassen+-+aka+Genope;welcome+to+my+github+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+👋+,+I'm+Hassen+-+ aka+Genope;welcome+to+my+github+page)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a Software Engineer and Designer !!</h3>
 <img  scr="https://jumpshare.com/s/ayqbGVVIO99V3kU52cLw">
