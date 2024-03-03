@@ -36,8 +36,7 @@
 
 
 ### :muscle: My Weekly Development
-<div align="left">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</div>
 
