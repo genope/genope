@@ -14,7 +14,8 @@
 - 📫 How to reach me out via **[Email](**hassen.mabrouk@esprit.tn**)**.
 
 - ⚡ Fun fact **I have few projects here because I mostly write code that makes money XD**
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassen mabrouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassen mabrouk" height="30" width="40" /></a>
