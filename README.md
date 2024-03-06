@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Total Time: 34 hrs 57 mins
+Total Time: 27 hrs 47 mins
 
-Kotlin            26 hrs 31 mins  ███████████████████░░░░░░   75.88 %
-PHP               6 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-XML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Markdown          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Swift             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Kotlin         20 hrs 16 mins  ██████████████████▒░░░░░░   72.93 %
+PHP            7 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
+JavaScript     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+HTML           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Shell Script   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
