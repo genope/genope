@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2024 - To: 20 April 2024
+From: 14 April 2024 - To: 21 April 2024
 
-Total Time: 17 hrs 48 mins
+Total Time: 18 hrs 59 mins
 
-Kotlin         16 hrs 16 mins  ███████████████████████░░   91.39 %
-XML            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-PHP            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-TOML           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-SqlDelight     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Kotlin         17 hrs 42 mins  ███████████████████████▒░   93.23 %
+XML            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+SqlDelight     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+TOML           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
