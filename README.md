@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **KMM,Kotlin, SwiftUI**
 
--  Check out my articles on **[Medium](https://medium.com/@hassenmabrouk)**.
+- ⚡ Check out my articles on **[Medium](https://medium.com/@hassenmabrouk)**.
 
 - 💬 Ask me about **Kotlin**
 
